@@ -1,731 +1,609 @@
 [{
-    "id": 1,
     "city": "基隆市",
     "area": "仁愛區",
     "zipCode": "200"
 },
 {
-    "id": 2,
     "city": "基隆市",
     "area": "信義區",
     "zipCode": "201"
 },
 {
-    "id": 3,
     "city": "基隆市",
     "area": "中正區",
     "zipCode": "202"
 },
 {
-    "id": 4,
     "city": "基隆市",
     "area": "中山區",
     "zipCode": "203"
 },
 {
-    "id": 5,
     "city": "基隆市",
     "area": "安樂區",
     "zipCode": "204"
 },
 {
-    "id": 6,
     "city": "基隆市",
     "area": "暖暖區",
     "zipCode": "205"
 },
 {
-    "id": 7,
     "city": "基隆市",
     "area": "七堵區",
     "zipCode": "206"
 },
 {
-    "id": 8,
     "city": "台北市",
     "area": "中正區",
     "zipCode": "100"
 },
 {
-    "id": 9,
     "city": "台北市",
     "area": "大同區",
     "zipCode": "103"
 },
 {
-    "id": 10,
     "city": "台北市",
     "area": "中山區",
     "zipCode": "104"
 },
 {
-    "id": 11,
     "city": "台北市",
     "area": "松山區",
     "zipCode": "105"
 },
 {
-    "id": 12,
     "city": "台北市",
     "area": "大安區",
     "zipCode": "106"
 },
 {
-    "id": 13,
     "city": "台北市",
     "area": "萬華區",
     "zipCode": "108"
 },
 {
-    "id": 14,
     "city": "台北市",
     "area": "信義區",
     "zipCode": "110"
 },
 {
-    "id": 15,
     "city": "台北市",
     "area": "士林區",
     "zipCode": "111"
 },
 {
-    "id": 16,
     "city": "台北市",
     "area": "北投區",
     "zipCode": "112"
 },
 {
-    "id": 17,
     "city": "台北市",
     "area": "內湖區",
     "zipCode": "114"
 },
 {
-    "id": 18,
     "city": "台北市",
     "area": "南港區",
     "zipCode": "115"
 },
 {
-    "id": 19,
     "city": "台北市",
     "area": "文山區",
     "zipCode": "116"
 },
 {
-    "id": 20,
     "city": "新北市",
     "area": "萬里區",
     "zipCode": "207"
 },
 {
-    "id": 21,
     "city": "新北市",
     "area": "金山區",
     "zipCode": "208"
 },
 {
-    "id": 22,
     "city": "新北市",
     "area": "板橋區",
     "zipCode": "220"
 },
 {
-    "id": 23,
     "city": "新北市",
     "area": "汐止區",
     "zipCode": "221"
 },
 {
-    "id": 24,
     "city": "新北市",
     "area": "深坑區",
     "zipCode": "222"
 },
 {
-    "id": 25,
     "city": "新北市",
     "area": "石碇區",
     "zipCode": "223"
 },
 {
-    "id": 26,
     "city": "新北市",
     "area": "瑞芳區",
     "zipCode": "224"
 },
 {
-    "id": 27,
     "city": "新北市",
     "area": "平溪區",
     "zipCode": "226"
 },
 {
-    "id": 28,
     "city": "新北市",
     "area": "雙溪區",
     "zipCode": "227"
 },
 {
-    "id": 29,
     "city": "新北市",
     "area": "貢寮區",
     "zipCode": "228"
 },
 {
-    "id": 30,
     "city": "新北市",
     "area": "新店區",
     "zipCode": "231"
 },
 {
-    "id": 31,
     "city": "新北市",
     "area": "坪林區",
     "zipCode": "232"
 },
 {
-    "id": 32,
     "city": "新北市",
     "area": "烏來區",
     "zipCode": "233"
 },
 {
-    "id": 33,
     "city": "新北市",
     "area": "永和區",
     "zipCode": "234"
 },
 {
-    "id": 34,
     "city": "新北市",
     "area": "中和區",
     "zipCode": "235"
 },
 {
-    "id": 35,
     "city": "新北市",
     "area": "土城區",
     "zipCode": "236"
 },
 {
-    "id": 36,
     "city": "新北市",
     "area": "三峽區",
     "zipCode": "237"
 },
 {
-    "id": 37,
     "city": "新北市",
     "area": "樹林區",
     "zipCode": "238"
 },
 {
-    "id": 38,
     "city": "新北市",
     "area": "鶯歌區",
     "zipCode": "239"
 },
 {
-    "id": 39,
     "city": "新北市",
     "area": "三重區",
     "zipCode": "241"
 },
 {
-    "id": 40,
     "city": "新北市",
     "area": "新莊區",
     "zipCode": "242"
 },
 {
-    "id": 41,
     "city": "新北市",
     "area": "泰山區",
     "zipCode": "243"
 },
 {
-    "id": 42,
     "city": "新北市",
     "area": "林口區",
     "zipCode": "244"
 },
 {
-    "id": 43,
     "city": "新北市",
     "area": "蘆洲區",
     "zipCode": "247"
 },
 {
-    "id": 44,
     "city": "新北市",
     "area": "五股區",
     "zipCode": "248"
 },
 {
-    "id": 45,
     "city": "新北市",
     "area": "八里區",
     "zipCode": "249"
 },
 {
-    "id": 46,
     "city": "新北市",
     "area": "淡水區",
     "zipCode": "251"
 },
 {
-    "id": 47,
     "city": "新北市",
     "area": "三芝區",
     "zipCode": "252"
 },
 {
-    "id": 48,
     "city": "新北市",
     "area": "石門區",
     "zipCode": "253"
 },
 {
-    "id": 49,
     "city": "宜蘭縣",
     "area": "宜蘭市",
     "zipCode": "260"
 },
 {
-    "id": 50,
     "city": "宜蘭縣",
     "area": "頭城鎮",
     "zipCode": "261"
 },
 {
-    "id": 51,
     "city": "宜蘭縣",
     "area": "礁溪鄉",
     "zipCode": "262"
 },
 {
-    "id": 52,
     "city": "宜蘭縣",
     "area": "壯圍鄉",
     "zipCode": "263"
 },
 {
-    "id": 53,
     "city": "宜蘭縣",
     "area": "員山鄉",
     "zipCode": "264"
 },
 {
-    "id": 54,
     "city": "宜蘭縣",
     "area": "羅東鎮",
     "zipCode": "265"
 },
 {
-    "id": 55,
     "city": "宜蘭縣",
     "area": "三星鄉",
     "zipCode": "266"
 },
 {
-    "id": 56,
     "city": "宜蘭縣",
     "area": "大同鄉",
     "zipCode": "267"
 },
 {
-    "id": 57,
     "city": "宜蘭縣",
     "area": "五結鄉",
     "zipCode": "268"
 },
 {
-    "id": 58,
     "city": "宜蘭縣",
     "area": "冬山鄉",
     "zipCode": "269"
 },
 {
-    "id": 59,
     "city": "宜蘭縣",
     "area": "蘇澳鎮",
     "zipCode": "270"
 },
 {
-    "id": 60,
     "city": "宜蘭縣",
     "area": "南澳鄉",
     "zipCode": "272"
 },
 {
-    "id": 61,
     "city": "宜蘭縣",
     "area": "釣魚台列嶼",
     "zipCode": "290"
 },
 {
-    "id": 62,
     "city": "新竹市",
     "area": "東區",
     "zipCode": "300"
 },
 {
-    "id": 63,
     "city": "新竹市",
     "area": "北區",
     "zipCode": "300"
 },
 {
-    "id": 64,
     "city": "新竹市",
     "area": "香山區",
     "zipCode": "300"
 },
 {
-    "id": 65,
     "city": "新竹縣",
     "area": "竹北市",
     "zipCode": "302"
 },
 {
-    "id": 66,
     "city": "新竹縣",
     "area": "湖口鄉",
     "zipCode": "303"
 },
 {
-    "id": 67,
     "city": "新竹縣",
     "area": "新豐鄉",
     "zipCode": "304"
 },
 {
-    "id": 68,
     "city": "新竹縣",
     "area": "新埔鎮",
     "zipCode": "305"
 },
 {
-    "id": 69,
     "city": "新竹縣",
     "area": "關西鎮",
     "zipCode": "306"
 },
 {
-    "id": 70,
     "city": "新竹縣",
     "area": "芎林鄉",
     "zipCode": "307"
 },
 {
-    "id": 71,
     "city": "新竹縣",
     "area": "寶山鄉",
     "zipCode": "308"
 },
 {
-    "id": 72,
     "city": "新竹縣",
     "area": "竹東鎮",
     "zipCode": "310"
 },
 {
-    "id": 73,
     "city": "新竹縣",
     "area": "五峰鄉",
     "zipCode": "311"
 },
 {
-    "id": 74,
     "city": "新竹縣",
     "area": "橫山鄉",
     "zipCode": "312"
 },
 {
-    "id": 75,
     "city": "新竹縣",
     "area": "尖石鄉",
     "zipCode": "313"
 },
 {
-    "id": 76,
     "city": "新竹縣",
     "area": "北埔鄉",
     "zipCode": "314"
 },
 {
-    "id": 77,
     "city": "新竹縣",
     "area": "峨嵋鄉",
     "zipCode": "315"
 },
 {
-    "id": 78,
     "city": "桃園市",
     "area": "中壢區",
     "zipCode": "320"
 },
 {
-    "id": 79,
     "city": "桃園市",
     "area": "平鎮區",
     "zipCode": "324"
 },
 {
-    "id": 80,
     "city": "桃園市",
     "area": "龍潭區",
     "zipCode": "325"
 },
 {
-    "id": 81,
     "city": "桃園市",
     "area": "楊梅區",
     "zipCode": "326"
 },
 {
-    "id": 82,
     "city": "桃園市",
     "area": "新屋區",
     "zipCode": "327"
 },
 {
-    "id": 83,
     "city": "桃園市",
     "area": "觀音區",
     "zipCode": "328"
 },
 {
-    "id": 84,
     "city": "桃園市",
     "area": "桃園區",
     "zipCode": "330"
 },
 {
-    "id": 85,
     "city": "桃園市",
     "area": "龜山區",
     "zipCode": "333"
 },
 {
-    "id": 86,
     "city": "桃園市",
     "area": "八德區",
     "zipCode": "334"
 },
 {
-    "id": 87,
     "city": "桃園市",
     "area": "大溪區",
     "zipCode": "335"
 },
 {
-    "id": 88,
     "city": "桃園市",
     "area": "復興區",
     "zipCode": "336"
 },
 {
-    "id": 89,
     "city": "桃園市",
     "area": "大園區",
     "zipCode": "337"
 },
 {
-    "id": 90,
     "city": "桃園市",
     "area": "蘆竹區",
     "zipCode": "338"
 },
 {
-    "id": 91,
     "city": "苗栗縣",
     "area": "竹南鎮",
     "zipCode": "350"
 },
 {
-    "id": 92,
     "city": "苗栗縣",
     "area": "頭份市",
     "zipCode": "351"
 },
 {
-    "id": 93,
     "city": "苗栗縣",
     "area": "三灣鄉",
     "zipCode": "352"
 },
 {
-    "id": 94,
     "city": "苗栗縣",
     "area": "南庄鄉",
     "zipCode": "353"
 },
 {
-    "id": 95,
     "city": "苗栗縣",
     "area": "獅潭鄉",
     "zipCode": "354"
 },
 {
-    "id": 96,
     "city": "苗栗縣",
     "area": "後龍鎮",
     "zipCode": "356"
 },
 {
-    "id": 97,
     "city": "苗栗縣",
     "area": "通霄鎮",
     "zipCode": "357"
 },
 {
-    "id": 98,
     "city": "苗栗縣",
     "area": "苑裡鎮",
     "zipCode": "358"
 },
 {
-    "id": 99,
     "city": "苗栗縣",
     "area": "苗栗市",
     "zipCode": "360"
 },
 {
-    "id": 100,
     "city": "苗栗縣",
     "area": "造橋鄉",
     "zipCode": "361"
 },
 {
-    "id": 101,
     "city": "苗栗縣",
     "area": "頭屋鄉",
     "zipCode": "362"
 },
 {
-    "id": 102,
     "city": "苗栗縣",
     "area": "公館鄉",
     "zipCode": "363"
 },
 {
-    "id": 103,
     "city": "苗栗縣",
     "area": "大湖鄉",
     "zipCode": "364"
 },
 {
-    "id": 104,
     "city": "苗栗縣",
     "area": "泰安鄉",
     "zipCode": "365"
 },
 {
-    "id": 105,
     "city": "苗栗縣",
     "area": "銅鑼鄉",
     "zipCode": "366"
 },
 {
-    "id": 106,
     "city": "苗栗縣",
     "area": "三義鄉",
     "zipCode": "367"
 },
 {
-    "id": 107,
     "city": "苗栗縣",
     "area": "西湖鄉",
     "zipCode": "368"
 },
 {
-    "id": 108,
     "city": "苗栗縣",
     "area": "卓蘭鎮",
     "zipCode": "369"
 },
 {
-    "id": 109,
     "city": "台中市",
     "area": "中區",
     "zipCode": "400"
 },
 {
-    "id": 110,
     "city": "台中市",
     "area": "東區",
     "zipCode": "401"
 },
 {
-    "id": 111,
     "city": "台中市",
     "area": "南區",
     "zipCode": "402"
 },
 {
-    "id": 112,
     "city": "台中市",
     "area": "西區",
     "zipCode": "403"
 },
 {
-    "id": 113,
     "city": "台中市",
     "area": "北區",
     "zipCode": "404"
 },
 {
-    "id": 114,
     "city": "台中市",
     "area": "北屯區",
     "zipCode": "406"
 },
 {
-    "id": 115,
     "city": "台中市",
     "area": "西屯區",
     "zipCode": "407"
 },
 {
-    "id": 116,
     "city": "台中市",
     "area": "南屯區",
     "zipCode": "408"
 },
 {
-    "id": 117,
     "city": "台中市",
     "area": "太平區",
     "zipCode": "411"
 },
 {
-    "id": 118,
     "city": "台中市",
     "area": "大里區",
     "zipCode": "412"
 },
 {
-    "id": 119,
     "city": "台中市",
     "area": "霧峰區",
     "zipCode": "413"
 },
 {
-    "id": 120,
     "city": "台中市",
     "area": "烏日區",
     "zipCode": "414"
 },
 {
-    "id": 121,
     "city": "台中市",
     "area": "豐原區",
     "zipCode": "420"
 },
 {
-    "id": 122,
     "city": "台中市",
     "area": "后里區",
     "zipCode": "421"
@@ -743,1483 +621,1236 @@
     "zipCode": "423"
 },
 {
-    "id": 125,
     "city": "台中市",
     "area": "和平區",
     "zipCode": "424"
 },
 {
-    "id": 126,
     "city": "台中市",
     "area": "新社區",
     "zipCode": "426"
 },
 {
-    "id": 127,
     "city": "台中市",
     "area": "潭子區",
     "zipCode": "427"
 },
 {
-    "id": 128,
     "city": "台中市",
     "area": "大雅區",
     "zipCode": "428"
 },
 {
-    "id": 129,
     "city": "台中市",
     "area": "神岡區",
     "zipCode": "429"
 },
 {
-    "id": 130,
     "city": "台中市",
     "area": "大肚區",
     "zipCode": "432"
 },
 {
-    "id": 131,
     "city": "台中市",
     "area": "沙鹿區",
     "zipCode": "433"
 },
 {
-    "id": 132,
     "city": "台中市",
     "area": "龍井區",
     "zipCode": "434"
 },
 {
-    "id": 133,
     "city": "台中市",
     "area": "梧棲區",
     "zipCode": "435"
 },
 {
-    "id": 134,
     "city": "台中市",
     "area": "清水區",
     "zipCode": "436"
 },
 {
-    "id": 135,
     "city": "台中市",
     "area": "大甲區",
     "zipCode": "437"
 },
 {
-    "id": 136,
     "city": "台中市",
     "area": "外埔區",
     "zipCode": "438"
 },
 {
-    "id": 137,
     "city": "台中市",
     "area": "大安區",
     "zipCode": "439"
 },
 {
-    "id": 138,
     "city": "彰化縣",
     "area": "彰化市",
     "zipCode": "500"
 },
 {
-    "id": 139,
     "city": "彰化縣",
     "area": "芬園鄉",
     "zipCode": "502"
 },
 {
-    "id": 140,
     "city": "彰化縣",
     "area": "花壇鄉",
     "zipCode": "503"
 },
 {
-    "id": 141,
     "city": "彰化縣",
     "area": "秀水鄉",
     "zipCode": "504"
 },
 {
-    "id": 142,
     "city": "彰化縣",
     "area": "鹿港鎮",
     "zipCode": "505"
 },
 {
-    "id": 143,
     "city": "彰化縣",
     "area": "福興鄉",
     "zipCode": "506"
 },
 {
-    "id": 144,
     "city": "彰化縣",
     "area": "線西鄉",
     "zipCode": "507"
 },
 {
-    "id": 145,
     "city": "彰化縣",
     "area": "和美鎮",
     "zipCode": "508"
 },
 {
-    "id": 146,
     "city": "彰化縣",
     "area": "伸港鄉",
     "zipCode": "509"
 },
 {
-    "id": 147,
     "city": "彰化縣",
     "area": "員林市",
     "zipCode": "510"
 },
 {
-    "id": 148,
     "city": "彰化縣",
     "area": "社頭鄉",
     "zipCode": "511"
 },
 {
-    "id": 149,
     "city": "彰化縣",
     "area": "永靖鄉",
     "zipCode": "512"
 },
 {
-    "id": 150,
     "city": "彰化縣",
     "area": "埔心鄉",
     "zipCode": "513"
 },
 {
-    "id": 151,
     "city": "彰化縣",
     "area": "溪湖鎮",
     "zipCode": "514"
 },
 {
-    "id": 152,
     "city": "彰化縣",
     "area": "大村鄉",
     "zipCode": "515"
 },
 {
-    "id": 153,
     "city": "彰化縣",
     "area": "埔鹽鄉",
     "zipCode": "516"
 },
 {
-    "id": 154,
     "city": "彰化縣",
     "area": "田中鎮",
     "zipCode": "520"
 },
 {
-    "id": 155,
     "city": "彰化縣",
     "area": "北斗鎮",
     "zipCode": "521"
 },
 {
-    "id": 156,
     "city": "彰化縣",
     "area": "田尾鄉",
     "zipCode": "522"
 },
 {
-    "id": 157,
     "city": "彰化縣",
     "area": "埤頭鄉",
     "zipCode": "523"
 },
 {
-    "id": 158,
     "city": "彰化縣",
     "area": "溪州鄉",
     "zipCode": "524"
 },
 {
-    "id": 159,
     "city": "彰化縣",
     "area": "竹塘鄉",
     "zipCode": "525"
 },
 {
-    "id": 160,
     "city": "彰化縣",
     "area": "二林鎮",
     "zipCode": "526"
 },
 {
-    "id": 161,
     "city": "彰化縣",
     "area": "大城鄉",
     "zipCode": "527"
 },
 {
-    "id": 162,
     "city": "彰化縣",
     "area": "芳苑鄉",
     "zipCode": "528"
 },
 {
-    "id": 163,
     "city": "彰化縣",
     "area": "二水鄉",
     "zipCode": "530"
 },
 {
-    "id": 164,
     "city": "南投縣",
     "area": "南投市",
     "zipCode": "540"
 },
 {
-    "id": 165,
     "city": "南投縣",
     "area": "中寮鄉",
     "zipCode": "541"
 },
 {
-    "id": 166,
     "city": "南投縣",
     "area": "草屯鎮",
     "zipCode": "542"
 },
 {
-    "id": 167,
     "city": "南投縣",
     "area": "國姓鄉",
     "zipCode": "544"
 },
 {
-    "id": 168,
     "city": "南投縣",
     "area": "埔里鎮",
     "zipCode": "545"
 },
 {
-    "id": 169,
     "city": "南投縣",
     "area": "仁愛鄉",
     "zipCode": "546"
 },
 {
-    "id": 170,
     "city": "南投縣",
     "area": "名間鄉",
     "zipCode": "551"
 },
 {
-    "id": 171,
     "city": "南投縣",
     "area": "集集鎮",
     "zipCode": "552"
 },
 {
-    "id": 172,
     "city": "南投縣",
     "area": "水里鄉",
     "zipCode": "553"
 },
 {
-    "id": 173,
     "city": "南投縣",
     "area": "魚池鄉",
     "zipCode": "555"
 },
 {
-    "id": 174,
     "city": "南投縣",
     "area": "信義鄉",
     "zipCode": "556"
 },
 {
-    "id": 175,
     "city": "南投縣",
     "area": "竹山鎮",
     "zipCode": "557"
 },
 {
-    "id": 176,
     "city": "南投縣",
     "area": "鹿谷鄉",
     "zipCode": "558"
 },
 {
-    "id": 177,
     "city": "嘉義市",
     "area": "東區",
     "zipCode": "600"
 },
 {
-    "id": 178,
     "city": "嘉義市",
     "area": "西區",
     "zipCode": "600"
 },
 {
-    "id": 179,
     "city": "嘉義縣",
     "area": "番路鄉",
     "zipCode": "602"
 },
 {
-    "id": 180,
     "city": "嘉義縣",
     "area": "梅山鄉",
     "zipCode": "603"
 },
 {
-    "id": 181,
     "city": "嘉義縣",
     "area": "竹崎鄉",
     "zipCode": "604"
 },
 {
-    "id": 182,
     "city": "嘉義縣",
     "area": "阿里山",
     "zipCode": "605"
 },
 {
-    "id": 183,
     "city": "嘉義縣",
     "area": "中埔鄉",
     "zipCode": "606"
 },
 {
-    "id": 184,
     "city": "嘉義縣",
     "area": "大埔鄉",
     "zipCode": "607"
 },
 {
-    "id": 185,
     "city": "嘉義縣",
     "area": "水上鄉",
     "zipCode": "608"
 },
 {
-    "id": 186,
     "city": "嘉義縣",
     "area": "鹿草鄉",
     "zipCode": "611"
 },
 {
-    "id": 187,
     "city": "嘉義縣",
     "area": "太保市",
     "zipCode": "612"
 },
 {
-    "id": 188,
     "city": "嘉義縣",
     "area": "朴子市",
     "zipCode": "613"
 },
 {
-    "id": 189,
     "city": "嘉義縣",
     "area": "東石鄉",
     "zipCode": "614"
 },
 {
-    "id": 190,
     "city": "嘉義縣",
     "area": "六腳鄉",
     "zipCode": "615"
 },
 {
-    "id": 191,
     "city": "嘉義縣",
     "area": "新港鄉",
     "zipCode": "616"
 },
 {
-    "id": 192,
     "city": "嘉義縣",
     "area": "民雄鄉",
     "zipCode": "621"
 },
 {
-    "id": 193,
     "city": "嘉義縣",
     "area": "大林鎮",
     "zipCode": "622"
 },
 {
-    "id": 194,
     "city": "嘉義縣",
     "area": "溪口鄉",
     "zipCode": "623"
 },
 {
-    "id": 195,
     "city": "嘉義縣",
     "area": "義竹鄉",
     "zipCode": "624"
 },
 {
-    "id": 196,
     "city": "嘉義縣",
     "area": "布袋鎮",
     "zipCode": "625"
 },
 {
-    "id": 197,
     "city": "雲林縣",
     "area": "斗南鎮",
     "zipCode": "630"
 },
 {
-    "id": 198,
     "city": "雲林縣",
     "area": "大埤鄉",
     "zipCode": "631"
 },
 {
-    "id": 199,
     "city": "雲林縣",
     "area": "虎尾鎮",
     "zipCode": "632"
 },
 {
-    "id": 200,
     "city": "雲林縣",
     "area": "土庫鎮",
     "zipCode": "633"
 },
 {
-    "id": 201,
     "city": "雲林縣",
     "area": "褒忠鄉",
     "zipCode": "634"
 },
 {
-    "id": 202,
     "city": "雲林縣",
     "area": "東勢鄉",
     "zipCode": "635"
 },
 {
-    "id": 203,
     "city": "雲林縣",
     "area": "臺西鄉",
     "zipCode": "636"
 },
 {
-    "id": 204,
     "city": "雲林縣",
     "area": "崙背鄉",
     "zipCode": "637"
 },
 {
-    "id": 205,
     "city": "雲林縣",
     "area": "麥寮鄉",
     "zipCode": "638"
 },
 {
-    "id": 206,
     "city": "雲林縣",
     "area": "斗六市",
     "zipCode": "640"
 },
 {
-    "id": 207,
     "city": "雲林縣",
     "area": "林內鄉",
     "zipCode": "643"
 },
 {
-    "id": 208,
     "city": "雲林縣",
     "area": "古坑鄉",
     "zipCode": "646"
 },
 {
-    "id": 209,
     "city": "雲林縣",
     "area": "莿桐鄉",
     "zipCode": "647"
 },
 {
-    "id": 210,
     "city": "雲林縣",
     "area": "西螺鎮",
     "zipCode": "648"
 },
 {
-    "id": 211,
     "city": "雲林縣",
     "area": "二崙鄉",
     "zipCode": "649"
 },
 {
-    "id": 212,
     "city": "雲林縣",
     "area": "北港鎮",
     "zipCode": "651"
 },
 {
-    "id": 213,
     "city": "雲林縣",
     "area": "水林鄉",
     "zipCode": "652"
 },
 {
-    "id": 214,
     "city": "雲林縣",
     "area": "口湖鄉",
     "zipCode": "653"
 },
 {
-    "id": 215,
     "city": "雲林縣",
     "area": "四湖鄉",
     "zipCode": "654"
 },
 {
-    "id": 216,
     "city": "雲林縣",
     "area": "元長鄉",
     "zipCode": "655"
 },
 {
-    "id": 217,
     "city": "台南市",
     "area": "中西區",
     "zipCode": "700"
 },
 {
-    "id": 218,
     "city": "台南市",
     "area": "東區",
     "zipCode": "701"
 },
 {
-    "id": 219,
     "city": "台南市",
     "area": "南區",
     "zipCode": "702"
 },
 {
-    "id": 220,
     "city": "台南市",
     "area": "北區",
     "zipCode": "704"
 },
 {
-    "id": 221,
     "city": "台南市",
     "area": "安平區",
     "zipCode": "708"
 },
 {
-    "id": 222,
     "city": "台南市",
     "area": "安南區",
     "zipCode": "709"
 },
 {
-    "id": 223,
     "city": "台南市",
     "area": "永康區",
     "zipCode": "710"
 },
 {
-    "id": 224,
     "city": "台南市",
     "area": "歸仁區",
     "zipCode": "711"
 },
 {
-    "id": 225,
     "city": "台南市",
     "area": "新化區",
     "zipCode": "712"
 },
 {
-    "id": 226,
     "city": "台南市",
     "area": "左鎮區",
     "zipCode": "713"
 },
 {
-    "id": 227,
     "city": "台南市",
     "area": "玉井區",
     "zipCode": "714"
 },
 {
-    "id": 228,
     "city": "台南市",
     "area": "楠西區",
     "zipCode": "715"
 },
 {
-    "id": 229,
     "city": "台南市",
     "area": "南化區",
     "zipCode": "716"
 },
 {
-    "id": 230,
     "city": "台南市",
     "area": "仁德區",
     "zipCode": "717"
 },
 {
-    "id": 231,
     "city": "台南市",
     "area": "關廟區",
     "zipCode": "718"
 },
 {
-    "id": 232,
     "city": "台南市",
     "area": "龍崎區",
     "zipCode": "719"
 },
 {
-    "id": 233,
     "city": "台南市",
     "area": "官田區",
     "zipCode": "720"
 },
 {
-    "id": 234,
     "city": "台南市",
     "area": "麻豆區",
     "zipCode": "721"
 },
 {
-    "id": 235,
     "city": "台南市",
     "area": "佳里區",
     "zipCode": "722"
 },
 {
-    "id": 236,
     "city": "台南市",
     "area": "西港區",
     "zipCode": "723"
 },
 {
-    "id": 237,
     "city": "台南市",
     "area": "七股區",
     "zipCode": "724"
 },
 {
-    "id": 238,
     "city": "台南市",
     "area": "將軍區",
     "zipCode": "725"
 },
 {
-    "id": 239,
     "city": "台南市",
     "area": "學甲區",
     "zipCode": "726"
 },
 {
-    "id": 240,
     "city": "台南市",
     "area": "北門區",
     "zipCode": "727"
 },
 {
-    "id": 241,
     "city": "台南市",
     "area": "新營區",
     "zipCode": "730"
 },
 {
-    "id": 242,
     "city": "台南市",
     "area": "後壁區",
     "zipCode": "731"
 },
 {
-    "id": 243,
     "city": "台南市",
     "area": "白河區",
     "zipCode": "732"
 },
 {
-    "id": 244,
     "city": "台南市",
     "area": "東山區",
     "zipCode": "733"
 },
 {
-    "id": 245,
     "city": "台南市",
     "area": "六甲區",
     "zipCode": "734"
 },
 {
-    "id": 246,
     "city": "台南市",
     "area": "下營區",
     "zipCode": "735"
 },
 {
-    "id": 247,
     "city": "台南市",
     "area": "柳營區",
     "zipCode": "736"
 },
 {
-    "id": 248,
     "city": "台南市",
     "area": "鹽水區",
     "zipCode": "737"
 },
 {
-    "id": 249,
     "city": "台南市",
     "area": "善化區",
     "zipCode": "741"
 },
 {
-    "id": 250,
     "city": "台南市",
     "area": "大內區",
     "zipCode": "742"
 },
 {
-    "id": 251,
     "city": "台南市",
     "area": "山上區",
     "zipCode": "743"
 },
 {
-    "id": 252,
     "city": "台南市",
     "area": "新市區",
     "zipCode": "744"
 },
 {
-    "id": 253,
     "city": "台南市",
     "area": "安定區",
     "zipCode": "745"
 },
 {
-    "id": 254,
     "city": "高雄市",
     "area": "新興區",
     "zipCode": "800"
 },
 {
-    "id": 255,
     "city": "高雄市",
     "area": "前金區",
     "zipCode": "801"
 },
 {
-    "id": 256,
     "city": "高雄市",
     "area": "苓雅區",
     "zipCode": "802"
 },
 {
-    "id": 257,
     "city": "高雄市",
     "area": "鹽埕區",
     "zipCode": "803"
 },
 {
-    "id": 258,
     "city": "高雄市",
     "area": "鼓山區",
     "zipCode": "804"
 },
 {
-    "id": 259,
     "city": "高雄市",
     "area": "旗津區",
     "zipCode": "805"
 },
 {
-    "id": 260,
     "city": "高雄市",
     "area": "前鎮區",
     "zipCode": "806"
 },
 {
-    "id": 261,
     "city": "高雄市",
     "area": "三民區",
     "zipCode": "807"
 },
 {
-    "id": 262,
     "city": "高雄市",
     "area": "楠梓區",
     "zipCode": "811"
 },
 {
-    "id": 263,
     "city": "高雄市",
     "area": "小港區",
     "zipCode": "812"
 },
 {
-    "id": 264,
     "city": "高雄市",
     "area": "左營區",
     "zipCode": "813"
 },
 {
-    "id": 265,
     "city": "高雄市",
     "area": "仁武區",
     "zipCode": "814"
 },
 {
-    "id": 266,
     "city": "高雄市",
     "area": "大社區",
     "zipCode": "815"
 },
 {
-    "id": 267,
     "city": "高雄市",
     "area": "岡山區",
     "zipCode": "820"
 },
 {
-    "id": 268,
     "city": "高雄市",
     "area": "路竹區",
     "zipCode": "821"
 },
 {
-    "id": 269,
     "city": "高雄市",
     "area": "阿蓮區",
     "zipCode": "822"
 },
 {
-    "id": 270,
     "city": "高雄市",
     "area": "田寮區",
     "zipCode": "823"
 },
 {
-    "id": 271,
     "city": "高雄市",
     "area": "燕巢區",
     "zipCode": "824"
 },
 {
-    "id": 272,
     "city": "高雄市",
     "area": "橋頭區",
     "zipCode": "825"
 },
 {
-    "id": 273,
     "city": "高雄市",
     "area": "梓官區",
     "zipCode": "826"
 },
 {
-    "id": 274,
     "city": "高雄市",
     "area": "彌陀區",
     "zipCode": "827"
 },
 {
-    "id": 275,
     "city": "高雄市",
     "area": "永安區",
     "zipCode": "828"
 },
 {
-    "id": 276,
     "city": "高雄市",
     "area": "湖內區",
     "zipCode": "829"
 },
 {
-    "id": 277,
     "city": "高雄市",
     "area": "鳳山區",
     "zipCode": "830"
 },
 {
-    "id": 278,
     "city": "高雄市",
     "area": "大寮區",
     "zipCode": "831"
 },
 {
-    "id": 279,
     "city": "高雄市",
     "area": "林園區",
     "zipCode": "832"
 },
 {
-    "id": 280,
     "city": "高雄市",
     "area": "鳥松區",
     "zipCode": "833"
 },
 {
-    "id": 281,
     "city": "高雄市",
     "area": "大樹區",
     "zipCode": "840"
 },
 {
-    "id": 282,
     "city": "高雄市",
     "area": "旗山區",
     "zipCode": "842"
 },
 {
-    "id": 283,
     "city": "高雄市",
     "area": "美濃區",
     "zipCode": "843"
 },
 {
-    "id": 284,
     "city": "高雄市",
     "area": "六龜區",
     "zipCode": "844"
 },
 {
-    "id": 285,
     "city": "高雄市",
     "area": "內門區",
     "zipCode": "845"
 },
 {
-    "id": 286,
     "city": "高雄市",
     "area": "杉林區",
     "zipCode": "846"
 },
 {
-    "id": 287,
     "city": "高雄市",
     "area": "甲仙區",
     "zipCode": "847"
 },
 {
-    "id": 288,
     "city": "高雄市",
     "area": "桃源區",
     "zipCode": "848"
 },
 {
-    "id": 289,
     "city": "高雄市",
     "area": "那瑪夏區",
     "zipCode": "849"
 },
 {
-    "id": 290,
     "city": "高雄市",
     "area": "茂林區",
     "zipCode": "851"
 },
 {
-    "id": 291,
     "city": "高雄市",
     "area": "茄萣區",
     "zipCode": "852"
 },
 {
-    "id": 292,
     "city": "屏東縣",
     "area": "屏東市",
     "zipCode": "900"
 },
 {
-    "id": 293,
     "city": "屏東縣",
     "area": "三地門",
     "zipCode": "901"
 },
 {
-    "id": 294,
     "city": "屏東縣",
     "area": "霧臺鄉",
     "zipCode": "902"
 },
 {
-    "id": 295,
     "city": "屏東縣",
     "area": "瑪家鄉",
     "zipCode": "903"
 },
 {
-    "id": 296,
     "city": "屏東縣",
     "area": "九如鄉",
     "zipCode": "904"
 },
 {
-    "id": 297,
     "city": "屏東縣",
     "area": "里港鄉",
     "zipCode": "905"
 },
 {
-    "id": 298,
     "city": "屏東縣",
     "area": "高樹鄉",
     "zipCode": "906"
 },
 {
-    "id": 299,
     "city": "屏東縣",
     "area": "鹽埔鄉",
     "zipCode": "907"
 },
 {
-    "id": 300,
     "city": "屏東縣",
     "area": "長治鄉",
     "zipCode": "908"
 },
 {
-    "id": 301,
     "city": "屏東縣",
     "area": "麟洛鄉",
     "zipCode": "909"
 },
 {
-    "id": 302,
     "city": "屏東縣",
     "area": "竹田鄉",
     "zipCode": "911"
 },
 {
-    "id": 303,
     "city": "屏東縣",
     "area": "內埔鄉",
     "zipCode": "912"
 },
 {
-    "id": 304,
     "city": "屏東縣",
     "area": "萬丹鄉",
     "zipCode": "913"
 },
 {
-    "id": 305,
     "city": "屏東縣",
     "area": "潮州鎮",
     "zipCode": "920"
 },
 {
-    "id": 306,
     "city": "屏東縣",
     "area": "泰武鄉",
     "zipCode": "921"
 },
 {
-    "id": 307,
     "city": "屏東縣",
     "area": "來義鄉",
     "zipCode": "922"
 },
 {
-    "id": 308,
     "city": "屏東縣",
     "area": "萬巒鄉",
     "zipCode": "923"
 },
 {
-    "id": 309,
     "city": "屏東縣",
     "area": "崁頂鄉",
     "zipCode": "924"
 },
 {
-    "id": 310,
     "city": "屏東縣",
     "area": "新埤鄉",
     "zipCode": "925"
 },
 {
-    "id": 311,
     "city": "屏東縣",
     "area": "南州鄉",
     "zipCode": "926"
 },
 {
-    "id": 312,
     "city": "屏東縣",
     "area": "林邊鄉",
     "zipCode": "927"
 },
 {
-    "id": 313,
     "city": "屏東縣",
     "area": "東港鎮",
     "zipCode": "928"
 },
 {
-    "id": 314,
     "city": "屏東縣",
     "area": "琉球鄉",
     "zipCode": "929"
 },
 {
-    "id": 315,
     "city": "屏東縣",
     "area": "佳冬鄉",
     "zipCode": "931"
 },
 {
-    "id": 316,
     "city": "屏東縣",
     "area": "新園鄉",
     "zipCode": "932"
 },
 {
-    "id": 317,
     "city": "屏東縣",
     "area": "枋寮鄉",
     "zipCode": "940"
 },
 {
-    "id": 318,
     "city": "屏東縣",
     "area": "枋山鄉",
     "zipCode": "941"
 },
 {
-    "id": 319,
     "city": "屏東縣",
     "area": "春日鄉",
     "zipCode": "942"
 },
 {
-    "id": 320,
     "city": "屏東縣",
     "area": "獅子鄉",
     "zipCode": "943"
 },
 {
-    "id": 321,
     "city": "屏東縣",
     "area": "車城鄉",
     "zipCode": "944"
 },
 {
-    "id": 322,
     "city": "屏東縣",
     "area": "牡丹鄉",
     "zipCode": "945"
 },
 {
-    "id": 323,
     "city": "屏東縣",
     "area": "恆春鎮",
     "zipCode": "946"
 },
 {
-    "id": 324,
     "city": "屏東縣",
     "area": "滿州鄉",
     "zipCode": "947"
 },
 {
-    "id": 325,
     "city": "台東縣",
     "area": "臺東市",
     "zipCode": "950"
 },
 {
-    "id": 326,
     "city": "台東縣",
     "area": "綠島鄉",
     "zipCode": "951"
 },
 {
-    "id": 327,
     "city": "台東縣",
     "area": "蘭嶼鄉",
     "zipCode": "952"
 },
 {
-    "id": 328,
     "city": "台東縣",
     "area": "延平鄉",
     "zipCode": "953"
 },
 {
-    "id": 329,
     "city": "台東縣",
     "area": "卑南鄉",
     "zipCode": "954"
 },
 {
-    "id": 330,
     "city": "台東縣",
     "area": "鹿野鄉",
     "zipCode": "955"
 },
 {
-    "id": 331,
     "city": "台東縣",
     "area": "關山鎮",
     "zipCode": "956"
 },
 {
-    "id": 332,
     "city": "台東縣",
     "area": "海端鄉",
     "zipCode": "957"
 },
 {
-    "id": 333,
     "city": "台東縣",
     "area": "池上鄉",
     "zipCode": "958"
 },
 {
-    "id": 334,
     "city": "台東縣",
     "area": "東河鄉",
     "zipCode": "959"
 },
 {
-    "id": 335,
     "city": "台東縣",
     "area": "成功鎮",
     "zipCode": "961"
 },
 {
-    "id": 336,
     "city": "台東縣",
     "area": "長濱鄉",
     "zipCode": "962"
 },
 {
-    "id": 337,
     "city": "台東縣",
     "area": "太麻里鄉",
     "zipCode": "963"
 },
 {
-    "id": 338,
     "city": "台東縣",
     "area": "金峰鄉",
     "zipCode": "964"
 },
 {
-    "id": 339,
     "city": "台東縣",
     "area": "大武鄉",
     "zipCode": "965"
 },
 {
-    "id": 340,
     "city": "台東縣",
     "area": "達仁鄉",
     "zipCode": "966"
 },
 {
-    "id": 341,
     "city": "花蓮縣",
     "area": "花蓮市",
     "zipCode": "970"
 },
 {
-    "id": 342,
     "city": "花蓮縣",
     "area": "新城鄉",
     "zipCode": "971"
 },
 {
-    "id": 343,
     "city": "花蓮縣",
     "area": "秀林鄉",
     "zipCode": "972"
 },
 {
-    "id": 344,
     "city": "花蓮縣",
     "area": "吉安鄉",
     "zipCode": "973"
 },
 {
-    "id": 345,
     "city": "花蓮縣",
     "area": "壽豐鄉",
     "zipCode": "974"
 },
 {
-    "id": 346,
     "city": "花蓮縣",
     "area": "鳳林鎮",
     "zipCode": "975"
 },
 {
-    "id": 347,
     "city": "花蓮縣",
     "area": "光復鄉",
     "zipCode": "976"
 },
 {
-    "id": 348,
     "city": "花蓮縣",
     "area": "豐濱鄉",
     "zipCode": "977"
 },
 {
-    "id": 349,
     "city": "花蓮縣",
     "area": "瑞穗鄉",
     "zipCode": "978"
 },
 {
-    "id": 350,
     "city": "花蓮縣",
     "area": "萬榮鄉",
     "zipCode": "979"
 },
 {
-    "id": 351,
     "city": "花蓮縣",
     "area": "玉里鎮",
     "zipCode": "981"
 },
 {
-    "id": 352,
     "city": "花蓮縣",
     "area": "卓溪鄉",
     "zipCode": "982"
 },
 {
-    "id": 353,
     "city": "花蓮縣",
     "area": "富里鄉",
     "zipCode": "983"
 },
 {
-    "id": 354,
     "city": "金門縣",
     "area": "金沙鎮",
     "zipCode": "890"
 },
 {
-    "id": 355,
     "city": "金門縣",
     "area": "金湖鎮",
     "zipCode": "891"
 },
 {
-    "id": 356,
     "city": "金門縣",
     "area": "金寧鄉",
     "zipCode": "892"
 },
 {
-    "id": 357,
     "city": "金門縣",
     "area": "金城鎮",
     "zipCode": "893"
 },
 {
-    "id": 358,
     "city": "金門縣",
     "area": "烈嶼鄉",
     "zipCode": "894"
 },
 {
-    "id": 359,
     "city": "金門縣",
     "area": "烏坵鄉",
     "zipCode": "896"
 },
 {
-    "id": 360,
     "city": "連江縣",
     "area": "南竿鄉",
     "zipCode": "209"
 },
 {
-    "id": 361,
     "city": "連江縣",
     "area": "北竿鄉",
     "zipCode": "210"
 },
 {
-    "id": 362,
     "city": "連江縣",
     "area": "莒光鄉",
     "zipCode": "211"
 },
 {
-    "id": 363,
     "city": "連江縣",
     "area": "東引鄉",
     "zipCode": "212"
 },
 {
-    "id": 364,
     "city": "澎湖縣",
     "area": "馬公市",
     "zipCode": "880"
 },
 {
-    "id": 365,
     "city": "澎湖縣",
     "area": "西嶼鄉",
     "zipCode": "881"
 },
 {
-    "id": 366,
     "city": "澎湖縣",
     "area": "望安鄉",
     "zipCode": "882"
 },
 {
-    "id": 367,
     "city": "澎湖縣",
     "area": "七美鄉",
     "zipCode": "883"
 },
 {
-    "id": 368,
     "city": "澎湖縣",
     "area": "白沙鄉",
     "zipCode": "884"
 },
 {
-    "id": 369,
     "city": "澎湖縣",
     "area": "湖西鄉",
     "zipCode": "885"
 },
 {
-    "id": 370,
     "city": "南海諸島",
     "area": "東沙",
     "zipCode": "817"
 },
 {
-    "id": 371,
     "city": "南海諸島",
     "area": "南沙",
     "zipCode": "819"
